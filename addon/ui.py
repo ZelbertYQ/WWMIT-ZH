@@ -214,7 +214,7 @@ class WWMI_TOOLS_PT_SidePanelPartialExport(bpy.types.Panel):
 
 
 class WWMI_TOOLS_PT_SidePanelModInfo(bpy.types.Panel):
-    bl_label = "Mod Info"
+    bl_label = "模组信息"
     bl_parent_id = "WWMI_TOOLS_PT_SIDEBAR"
     # bl_options = {'DEFAULT_CLOSED'}
     bl_space_type = 'VIEW_3D'
