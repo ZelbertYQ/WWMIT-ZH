@@ -33,3 +33,19 @@
    * 下载发行版后可以直接安装，不需要解压缩
 
 如果你想要提交代码，或者反馈问题，请加Q群与我联系：992119724 （最后求个Star）
+
+## 提取预览
+
+![提取预览](https://raw.githubusercontent.com/ZelbertYQ/WWMIT-ZH/main/Images/提取预览.png)
+
+## 导入预览
+
+![导入预览](https://raw.githubusercontent.com/ZelbertYQ/WWMIT-ZH/main/Images/导入预览.png)
+
+## 导出预览
+
+![导出预览](https://raw.githubusercontent.com/ZelbertYQ/WWMIT-ZH/main/Images/导出预览.png)
+
+## 工具箱预览
+
+![工具箱预览](https://raw.githubusercontent.com/ZelbertYQ/WWMIT-ZH/main/Images/工具箱预览.png)
